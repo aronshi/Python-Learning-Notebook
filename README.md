@@ -1,2 +1,10 @@
-# Python-Learning-Notebook
-Python学习笔记
+# Python学习资料
+## 书签
+1. [牛客网](https://www.nowcoder.com/exam/oj)
+2. [和鲸社区](https://www.heywhale.com/home/)
+3. [鱼C工作室](https://fishc.com.cn/)
+4. [Python学习路线](https://javabetter.cn/xuexiluxian/python.html#_1-%E8%A7%86%E9%A2%91%E7%AF%87)
+5. [Python-100-Days](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/02.%E8%AF%AD%E8%A8%80%E5%85%83%E7%B4%A0.md)
+6. [python从零到精通教程](https://chuanchuan.blog.csdn.net/article/details/120419754?spm=1001.2014.3001.5502)
+7. [python编程--从入门到实践](https://blog.csdn.net/weixin_45875358/article/details/125216860)
+8. [小甲鱼《零基础入门学Python》教程笔记](https://blog.csdn.net/qq_41999731/article/details/123697974)
