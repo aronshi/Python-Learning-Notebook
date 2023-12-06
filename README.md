@@ -8,3 +8,4 @@
 6. [python从零到精通教程](https://chuanchuan.blog.csdn.net/article/details/120419754?spm=1001.2014.3001.5502)
 7. [python编程--从入门到实践](https://blog.csdn.net/weixin_45875358/article/details/125216860)
 8. [小甲鱼《零基础入门学Python》教程笔记](https://blog.csdn.net/qq_41999731/article/details/123697974)
+9. [2023年最值得收藏的Python学习路线](https://javabetter.cn/xuexiluxian/python.html)
